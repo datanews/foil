@@ -270,6 +270,16 @@ Phone No: 646-664-9110
 Fax: 646-664-3863  
 Fields@mail.law.cuny.edu  
 
+#### Mayor's Office of Film, Theatre and Broadcasting
+
+Details: http://www.nyc.gov/html/film/html/contact/foil.shtml
+
+Records Access Officer  
+Mayor's Office of Media and Entertainment  
+One Centre Street, 27th Floor  
+New York, NY 10007  
+mihle@media.nyc.gov
+
 #### New York City School Construction Authority (SCA)
 
 Details: http://www.nycsca.org/Business/WorkingWithTheSCA/Legal/Pages/FreedomofInformationRequests.aspx
