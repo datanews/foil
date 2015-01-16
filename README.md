@@ -184,6 +184,8 @@ Department of Housing Preservation & Development
 100 Gold Street  
 New York, NY 10038
 
+Current officer: Donald Appel (APPELD@hpd.nyc.gov)
+
 #### New York City Housing Authority (NYCHA)
 
 Details: http://www.nyc.gov/html/nycha/html/contact/foil_request.shtml
