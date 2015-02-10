@@ -91,6 +91,12 @@ Phone: 212-436-0285
 Fax: 646-500–5968  
 dcafoil@dca.nyc.gov
 
+#### New York City Council
+
+Records Access Officer: Danielle Barbato  
+Fax: 212.513.0701  
+dbarbato@council.nyc.gov
+
 #### New York City Department of Parks & Recreation
 
 Details: http://www.nycgovparks.org/contact-parks/foil-request
