@@ -564,6 +564,10 @@ List of fulfilled FOI requests: http://www.panynj.gov/corporate-information/free
 
 Details: http://web.mta.info/foil.htm
 
+Current MTA FOIL contact:  
+Anne Cutler  
+212-878-7315
+
 MTA Headquarters  
 Victoria Clement  
 Manager Legal Support Services/Freedom of Information Law Officer  
