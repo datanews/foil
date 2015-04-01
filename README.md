@@ -326,12 +326,6 @@ Fax: (518) 474-8537
 
 Current officer: Lisa Turnbull (Lisa.Turnbull@dmv.ny.gov)
 
-#### New York Department of Environmental Protection (DEP)
-
-Details: http://www.nyc.gov/html/dep/html/contact_us/index.shtml
-
-Submit online: http://www.nyc.gov/html/dep/html/contact_us/foil.shtml
-
 #### New York Department of Taxation and Finance
 
 Details: http://www.tax.ny.gov/help/contact/foil_requests.htm
