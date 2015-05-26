@@ -339,6 +339,18 @@ Fax: 518-435-8548
 Property tax data: ORPTS.FOIL@tax.ny.gov  
 All other requests: foil.requests@tax.ny.gov
 
+#### New York Division of Criminal Justice Services (DCJS)
+
+Details: http://www.criminaljustice.ny.gov/crimnet/mail.htm
+
+Records Access Office  
+NYS Division of Criminal Justice Services  
+Alfred E. Smith Building  
+80 South Swan St.  
+Albany, New York 12210  
+Fax: 518-457-2416  
+foil@dcjs.ny.gov
+
 #### New York Department of Transportation (DOT)
 
 Details: https://www.dot.ny.gov/main/foil-form
